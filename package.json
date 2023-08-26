@@ -9,7 +9,6 @@
   "author": "FadyFawzyOfficial@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^7.4.5",
     "underscore": "^1.13.6"
   },
   "devDependencies": {
